@@ -1,1 +1,2 @@
 Adding text for Odin Project lesson.
+Adding content to test VSCode comment requirement for commits
